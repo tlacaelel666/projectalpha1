@@ -22,7 +22,8 @@ def download_video(url):
   audio_stream.download_video(output_path="DOWNLOAD_FOLDER")
   
   #convert to mp3
-    base, ext = os.path.splitex(audio_file)
+   
+ base, ext = os.path.splitex(audio_file)
     mp3_file = base + '.mp3'
      Audiosegment.from_file(audio_file).export(mp3_file,  format= "mp3")
      os.remove(audio_file) #remove the original file
