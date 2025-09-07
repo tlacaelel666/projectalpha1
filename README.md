@@ -28,5 +28,7 @@ Los sistemas cuánticos reales interactúan inevitablemente con su entorno, lo q
 
 *(Instrucciones sobre cómo obtener y configurar el proyecto)*
 
-1.  accede al colab https://colab.research.google.com/gist/tlacaelel666/f216ecc1310120260d20f1b8fe7cfbca/ecuacionmaestralindblad.ipynb
-2.  https://colab.research.google.com/github/tlacaelel666/projectalpha1/blob/main/estadusQuantum.ipynb 
+Accede al colab 
+1.  https://colab.research.google.com/gist/tlacaelel666/f216ecc1310120260d20f1b8fe7cfbca/ecuacionmaestralindblad.ipynb
+2.  https://colab.research.google.com/github/tlacaelel666/projectalpha1/blob/main/estadusQuantum.ipynb
+3.  https://colab.research.google.com/github/tlacaelel666/projectalpha1/blob/main/Simulador_de_Lindblad_extendido.ipynb
