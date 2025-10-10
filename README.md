@@ -1,4 +1,33 @@
-# Implementación de la ecuación maestra topológica lindblad en sistemas cuanticos 
+---
+<div align = 'center' color="withe">
+  
+  <img width="124" height="124" alt="Copilot_20250626_174042" src="https://github.com/user-attachments/assets/95b47a32-9b20-49d5-a41a-a36a5b393cf6" />
+  <img width="124" height="124" alt="Copilot_20250626_174042" src="https://github.com/user-attachments/assets/95b47a32-9b20-49d5-a41a-a36a5b393cf6" />
+  <img width="124" height="124" alt="Copilot_20250626_174042" src="https://github.com/user-attachments/assets/95b47a32-9b20-49d5-a41a-a36a5b393cf6" />
+
+
+</div>
+
+---
+
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+ <h1> 
+   Implementación de la ecuación maestra topológica lindblad en sistemas cuanticos 
+ </h1> 
+<style> 
+  .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white
+     </style>
+  </foreignObject>
+</svg>
+
+
 
 [![Estado de la Build](https://img.shields.io/badge/build-passing-brightgreen)](link_a_tu_pipeline_ci_si_tienes)
 [![Licencia](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
